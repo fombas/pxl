@@ -1,8 +1,8 @@
-# PXL Assignments 2024 - Time series data
+# PXL Assignments 2024 - Time series analytics
 
 Assignments for students at PXL Hasselt.
 
-## Assignment 0 - Data preparation
+## Assignment 1 - Data preparation
 
 **Objective**: Understand how to prepare a data matrix from possibly non-equidistant multivariate input data.
 
@@ -13,7 +13,7 @@ Assignments for students at PXL Hasselt.
 - How did you decide on the interpolation mechanism?
 
 
-## Assignment 1 - Amazon Chronos
+## Assignment 2 - Amazon Chronos
 
 **Objective**: Understand how recent foundational models can be used for time series predictions.
 
@@ -26,7 +26,7 @@ Assignments for students at PXL Hasselt.
 - Change the model to the “tiny” version and analyze how this changes the results. 
 - Apply the model on a new dataset (eg. sensor-1.csv with prediction length of 64, or an example you generate or download yourself). 
 
-## Assignment 2 - Autogluon
+## Assignment 3 - Autogluon
 
 **Objective**: Understand how autogluon can be used to find the best performing time series model for your data
 
@@ -37,7 +37,7 @@ Assignments for students at PXL Hasselt.
 - Which model performs best?
 - Can you interpret the model scoring metric used (MASE)?
 
-## Assignment 3 - CUSUM
+## Assignment 4 - CUSUM
 
 **Objective**: Understand how the very basic cusum technique works.
 
